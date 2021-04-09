@@ -1,0 +1,5 @@
+2 a basic usage of 3 compressor
+3 4 should take a small text file
+and if the 2 5 is useful it will show
+how 3 4 can shrink the 5
+_testing_2_this_3_compressor_4_file_5

@@ -1,0 +1,4 @@
+testing a basic usage of this compressor
+this compressor should take a small text file
+and if the testing file is useful it will show
+how this compressor can shrink the file
